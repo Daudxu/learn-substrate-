@@ -1,2 +1,2 @@
-# learn-substrate-
+# learn-substrate
 learn substrate 
